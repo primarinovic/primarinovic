@@ -10,6 +10,8 @@ I'm learning to learn every day! :stuck_out_tongue_winking_eye:
 :bookmark_tabs: In love with Python 💘 :bookmark_tabs:   
 :bookmark_tabs: Testing my luck with Java :sweat_drops: :bookmark_tabs:   
 
+---
+
 📫 How to reach me:
 
 <a href="https://www.linkedin.com/in/priscila-marinovic-5bb18960"><img src="IMG/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/priscila-marinovic-5bb18960) 
@@ -19,6 +21,8 @@ I'm learning to learn every day! :stuck_out_tongue_winking_eye:
 <a href="https://twitter.com/lost_sonata"><img src="IMG/twitter.png" width="16"></img></a> [Twitter](https://twitter.com/lost_sonata) 
 
 <a href="mailto:primarinovic@gmail.com"><img src="IMG/email.png" width="16"></img></a> [E-mail](mailto:primarinovic@gmail.com)
+
+---
 
 <center>
     
