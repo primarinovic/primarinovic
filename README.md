@@ -1,5 +1,5 @@
 
-### Bem-vindo! 👋 <img src="link_da_imagem" width="30px"></h2>
+### Bem-vindo! 👋
 
 I love animals, books and video games! (A huge fan of the Dragon Age series) 
 I have a :dog: named Bilbo and three :cat: : Cake, Damian and Tyrion.
@@ -11,7 +11,15 @@ I'm learning to learn every day! :stuck_out_tongue_winking_eye:
 
 📫 How to reach me:
 
-<a href="https://www.linkedin.com/in/priscila-marinovic-5bb18960"><img src="https://github.com/seu_usuário/seu_usuário/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/priscila-marinovic-5bb18960)  
+<a href="https://www.linkedin.com/in/priscila-marinovic-5bb18960"><img src="https://github.com/primarinovic/primarinovic/blob/main/IMG/linkedin.png?raw=true" width="40"></img></a> [LinkedIn](https://www.linkedin.com/in/priscila-marinovic-5bb18960) 
+
+<a href="https://www.instagram.com/pri_sonata/"><img src="https://github.com/primarinovic/primarinovic/blob/main/IMG/IG.png?raw=true" width="40"></img></a> [Instagram](https://www.instagram.com/pri_sonata/) 
+
+<a href="https://twitter.com/lost_sonata"><img src="https://github.com/primarinovic/primarinovic/blob/main/IMG/twitter.png?raw=true" width="40"></img></a> [Twitter](https://twitter.com/lost_sonata) 
+
+<a href="mailto:primarinovic@gmail.com"><img src="https://github.com/primarinovic/primarinovic/blob/main/IMG/email.png?raw=true" width="40"></img></a> [E-mail](mailto:primarinovic@gmail.com) 
+
+
 
 
 
