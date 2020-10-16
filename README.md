@@ -1,7 +1,7 @@
 
 ### Welcome-welcome! 👋
 
-I love animals, books and video games! (A huge fan of the Dragon Age series) 
+I love animals, books and video games! (A huge fan of the Dragon Age series)    
 I have a :dog: named Bilbo and three :cat: : Cake, Damian and Tyrion.
 
 I'm learning to learn every day! :stuck_out_tongue_winking_eye:
