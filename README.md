@@ -1,7 +1,7 @@
 
-### Welcome-welcome! 👋
+### Welcome-welcome! 👋:earth_africa::earth_americas::earth_asia:
 
-I love animals, books and video games! (A huge fan of the Dragon Age series)    
+I love nature:deciduous_tree:, animals, books, embroidering and video games! (A huge fan of the Dragon Age series :dragon_face:)    
 I have a :dog: named Bilbo and three :cat: : Cake, Damian and Tyrion.
 
 I'm learning to learn every day! :stuck_out_tongue_winking_eye:
