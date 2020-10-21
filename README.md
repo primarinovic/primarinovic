@@ -8,7 +8,7 @@ I'm learning to learn every day! :stuck_out_tongue_winking_eye:
 
 :bookmark_tabs: Learning JS and improving CSS skills :bookmark_tabs:    
 :bookmark_tabs: In love with Python 💘 :bookmark_tabs:   
-:bookmark_tabs: Testing my luck with Java :sweat_drops: :bookmark_tabs:   
+:bookmark_tabs: Testing my luck with Java :sweat_drops: :bookmark_tabs:  
 
 ---
 
